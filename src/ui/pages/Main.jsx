@@ -41,7 +41,7 @@ const Main = () => {
           <div>PETIONARY</div>
         </Slogun>
         <ViewMore>
-          <span>view more</span>
+          <span>view more+</span>
           <img src="./img/arrow.svg" style={{ width: "20px" }} />
         </ViewMore>
       </MainWrapper>
